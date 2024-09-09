@@ -1,6 +1,11 @@
 # Hi there, I am Nathan:
 
-Currently working as a post doc in the field of theoretical plasma astrophysics<br> Transitioning to the private sector soon <br> Looking for collaborations involving data analysis, machine learning and statistical methods<br>Looking for help in data structure and algorithms<br>Currently learning signal reconstruction and topological data analsyis
+- Currently working as a Postdoc in the field of theoretical plasma astrophysics<br>
+- Transitioning to the private sector soon <br>
+- Looking for collaborations involving data analysis, machine learning and statistical methods<br>
+- Looking for help in data structure and algorithms<br>
+- Currently teching myself signal reconstruction and topological data analsyis<br>
+- You can find my academic CV on my [personal website](http://nathan.science) 
 
 
 ## 🌐 Socials:
@@ -22,8 +27,6 @@ Currently working as a post doc in the field of theoretical plasma astrophysics<
 ---
 [![](https://visitcount.itsvg.in/api?id=nathanfelipe&icon=3&color=9)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@wasistwahrheit) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
