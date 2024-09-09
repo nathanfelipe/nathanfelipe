@@ -7,6 +7,13 @@
 - Currently teching myself signal reconstruction and topological data analsyis<br>
 - You can find my academic CV on my [personal website](http://nathan.science) 
 
+## Bio
+
+My name is Felipe Nathan de Oliveira Lopes, and I am currently a postdoctoral researcher on theoretical plasma astrophysics at the Max-Planck-Institut für Plasmaphysik, in Germany. I am also the former deputy spokesperson of the PostdocNet. I have a Ph.D. in Physics from the Ruhr-Universitat Bochum, in Germany, a M.Sc. in Theoretical Physics from the University of Brasilia, Brazil, and a M.Eng. in Nuclear Sciences from the Polytechnic University of Catalonia, Spain. Some of my primary areas of interest include plasma astrophysics, theoretical physics, and differential geometry. However, I also have a strong passion for the philosophy of science. Additionally, my experience working at the Barcelona Supercomputing Center has broadened my interests to include numerical simulations and high-performance computing. <br>
+
+At the Max-Planck-Institut, I am currently working on a novel field theoretical approach to better understand turbulence in astrophysics. More details about that model can be found on my personal webpage.  ​At the PostdocNet, together with the steering group, we were responsible to represent the Postdocs of all 84 Max Planck Institutes. In collaboration with the General Administration of the Max Planck Society, the network is striving to enhance working conditions and promote more open and transparent scientific practices. Our efforts also extend to advocating for greater diversity in academia and fostering improved communication between scientists and society. <br>
+
+Furthermore, on my free time I like to play around with rather fun mathematical methods to extract information from multidimensional complex data. More specifically, I have a particular interest in Data Science, Machine Learning and Topological Data Analysis. I am currently trying to understand how one could use persistent homology in time series analysis in order to develop topologically driven hidden markovian models and develop a robust methodology for motifs detection. <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/felipenathhan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nathan-de-oliveira/) 
