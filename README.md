@@ -1,9 +1,9 @@
 # Hi there, I am Nathan:
 
 - Currently working as a Postdoc in the field of theoretical plasma astrophysics<br>
-- Transitioning to the private sector soon <br>
-- Looking for collaborations involving data analysis, machine learning and statistical methods<br>
-- Looking for help in data structure and algorithms<br>
+- Slowly transitioning to the private sector <br>
+- Looking for collaborations involving data analysis, machine learning and statistical methods <br>
+- Looking for help in data structure and algorithms <br>
 - Currently teching myself signal reconstruction and topological data analsyis<br>
 - You can find my academic CV on my [personal website](http://nathan.science) 
 
