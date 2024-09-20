@@ -3,7 +3,7 @@
 - Currently working as a Postdoc in the field of theoretical plasma astrophysics<br>
 - Slowly transitioning to the private sector <br>
 - Looking for collaborations involving data analysis, machine learning and statistical methods <br>
-- Currently teaching myself signal reconstruction and data structure and algorithms <br>
+- Currently teaching myself signal reconstruction and data structure & algorithms <br>
 - You can find my academic CV on my [personal website](http://nathan.science) 
 
 ## Bio
