@@ -29,6 +29,7 @@ In my spare time, I like to experiment with mathematical approaches for extracti
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nathanfelipe&limit=5&theme=nord&combine_all_yearly_contributions=true)
+[Closure](https://github.com/georgemilosh/closure)
 
 ---
 ## 🌐 Socials:
