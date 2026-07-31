@@ -11,7 +11,7 @@ My name is Felipe Nathan de Oliveira Lopes, and I am currently a postdoctoral re
 
 My primary research interests lie at the intersection of theoretical plasma astrophysics, applied differential geometry, and data analysis / machine learning. My experience at the Barcelona Supercomputing Center also expanded my expertise in numerical simulations and high-performance computing. <br>
 
-At KU Leuven, I am involved in an FWO-funded project focused on using physically informed machine learning techniques to better understand energy dissipation in collisionless astrophysical systems—one of the enduring open questions in space and astrophysical plasmas. More details about the project can be found on my personal webpage. <br>
+At KU Leuven, I am involved in an FWO-funded project focused on using physically informed machine learning techniques to better understand energy dissipation in collisionless astrophysical systems, one of the enduring open questions in space and astrophysical plasmas. More details about the project can be found on my personal webpage. <br>
 
 In my spare time, I like to experiment with mathematical approaches for extracting structure and insights from high-dimensional data. In particular, I have a strong interest in topological data analysis. Currently, I am exploring how persistent homology can be applied to time series analysis with the goal of developing topologically informed hidden Markov models for robust motif detection in time series and complex dynamical systems. <br>
 
